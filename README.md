@@ -51,7 +51,6 @@
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="center" alt="eamorgado's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eamorgado&show_icons=true&hide_border=true&hide=stars" />
-  <img align="left" alt="Foodishoot" src="https://github-readme-stats.vercel.app/api/pin/?username=eamorgado&repo=FoodieShoot" />
 </details>
 <!--
 <details>
@@ -60,8 +59,17 @@
 </details>
 -->
 
+<details>
+  <summary>:mortar_board: Personal projects and documents</summary>
+  <img align="left" alt="Foodishoot" src="https://github-readme-stats.vercel.app/api/pin/?username=eamorgado&repo=FoodieShoot" />
+  <img align="left" alt="Documents" src="https://github-readme-stats.vercel.app/api/pin/?username=eamorgado&repo=Documents" />
+  <img align="left" alt="Documents" src="https://github-readme-stats.vercel.app/api/pin/?username=eamorgado&repo=NeuralNet" />
+</details>
+<br />
+
 ---
 
+<br />
 <details>
   <summary>:books: Some of my workshops</summary>
   <img align="left" alt="C for begginers" src="https://github-readme-stats.vercel.app/api/pin/?username=eamorgado&repo=NUCC2019-2020-C-para-Iniciantes" />
