@@ -48,9 +48,29 @@
 
 ---
 
-### Some of my workshops
-- [C workshop for begginers][c-begg]
-- [Java][java] [<img align="left" alt="Java Workshop | Youtube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][java-yt]
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="center" alt="eamorgado's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eamorgado&show_icons=true&hide_border=true&hide=stars" />
+  <img align="left" alt="Foodishoot" src="https://github-readme-stats.vercel.app/api/pin/?username=eamorgado&repo=FoodieShoot" />
+</details>
+<!--
+<details>
+  <summary>:computer: Languages</summary>
+   <img align="center" alt="Foodishoot" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eamorgado" />
+</details>
+-->
+
+---
+
+<details>
+  <summary>:books: Some of my workshops</summary>
+  <img align="left" alt="C for begginers" src="https://github-readme-stats.vercel.app/api/pin/?username=eamorgado&repo=NUCC2019-2020-C-para-Iniciantes" />
+  <img align="left" alt="Java" src="https://github-readme-stats.vercel.app/api/pin/?username=eamorgado&repo=NUCC-2019-2020-Java" />
+ 
+ 
+  - Java playlist: [<img align="left" alt="Java Workshop | Youtube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][java-yt]
+  
+</details>
 
 [website]: https://hapibot.com/
 [nucc]: https://nucc.dcc.fc.up.pt/
@@ -58,6 +78,4 @@
 [instagram]: https://www.instagram.com/eduardo_morgado99/
 [mail]: eapmcm@gmail.com
 [gitlab]: https://gitlab.com/eamorgado
-[c-begg]: https://github.com/eamorgado/NUCC2019-2020-C-para-Iniciantes
-[java]: https://github.com/eamorgado/NUCC-2019-2020-Java
 [java-yt]: https://www.youtube.com/playlist?list=PLo7YgrUQVxvU3KfzIctBhIpaTMynSEOzf
