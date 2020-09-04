@@ -63,7 +63,7 @@
   <summary>:mortar_board: Personal projects and documents</summary>
   <img align="left" alt="Foodishoot" src="https://github-readme-stats.vercel.app/api/pin/?username=eamorgado&repo=FoodieShoot" />
   <img align="left" alt="Documents" src="https://github-readme-stats.vercel.app/api/pin/?username=eamorgado&repo=Documents" />
-  <img align="left" alt="Documents" src="https://github-readme-stats.vercel.app/api/pin/?username=eamorgado&repo=NeuralNet" />
+  <img align="left" alt="Documents" src="https://github-readme-stats.vercel.app/api/pin/?username=thejoblessducks&repo=A-Neural-Network-That-Could" />
 </details>
 <br />
 
