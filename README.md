@@ -74,8 +74,10 @@
   <summary>:books: Some of my workshops</summary>
   <img align="left" alt="C for begginers" src="https://github-readme-stats.vercel.app/api/pin/?username=eamorgado&repo=NUCC2019-2020-C-para-Iniciantes" />
   <img align="left" alt="Java" src="https://github-readme-stats.vercel.app/api/pin/?username=eamorgado&repo=NUCC-2019-2020-Java" />
- 
- 
+  <img align="left" alt="Web" src="https://github-readme-stats.vercel.app/api/pin/?username=eamorgado&repo=NUCC-2020-2021-Web" />
+  
+  
+  
   [<img align="left" alt="Java Workshop | Youtube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][java-yt]
   
 </details>
