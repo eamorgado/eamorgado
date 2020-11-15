@@ -61,9 +61,9 @@
 
 <details>
   <summary>:mortar_board: Personal projects and documents</summary>
-  <img align="left" alt="Foodishoot" src="https://github-readme-stats.vercel.app/api/pin/?username=eamorgado&repo=FoodieShoot" />
-  <img align="left" alt="Documents" src="https://github-readme-stats.vercel.app/api/pin/?username=eamorgado&repo=Documents" />
-  <a align="left" alt="Documents" href="https://github-readme-stats.vercel.app/api/pin/?username=thejoblessducks&repo=A-Neural-Network-That-Could"></a>
+  <a href="https://github.com/eamorgado/FoodieShoot"><img align="left" alt="Foodishoot" src="https://github-readme-stats.vercel.app/api/pin/?username=eamorgado&repo=FoodieShoot" /></a>
+  <a href="https://github.com/eamorgado/Documents"><img align="left" alt="Documents" src="https://github-readme-stats.vercel.app/api/pin/?username=eamorgado&repo=Documents" /></a>
+  <a href="https://github.com/thejoblessducks/A-Neural-Network-That-Could"><img align="left" alt="Documents" src="https://github-readme-stats.vercel.app/api/pin/?username=thejoblessducks&repo=A-Neural-Network-That-Could" /></a>
 </details>
 <br />
 
@@ -72,9 +72,9 @@
 <br />
 <details>
   <summary>:books: Some of my workshops</summary>
-  <img align="left" alt="C for begginers" src="https://github-readme-stats.vercel.app/api/pin/?username=eamorgado&repo=NUCC2019-2020-C-para-Iniciantes" />
-  <img align="left" alt="Java" src="https://github-readme-stats.vercel.app/api/pin/?username=eamorgado&repo=NUCC-2019-2020-Java" />
-  <img align="left" alt="Web" src="https://github-readme-stats.vercel.app/api/pin/?username=eamorgado&repo=NUCC-2020-2021-Web" />
+  <a href="https://github.com/eamorgado/NUCC2019-2020-C-para-Iniciantes"><img align="left" alt="C for begginers" src="https://github-readme-stats.vercel.app/api/pin/?username=eamorgado&repo=NUCC2019-2020-C-para-Iniciantes" /></a>
+  <a href="https://github.com/eamorgado/NUCC-2019-2020-Java"><img align="left" alt="Java" src="https://github-readme-stats.vercel.app/api/pin/?username=eamorgado&repo=NUCC-2019-2020-Java" /></a>
+  <a href="https://github.com/eamorgado/NUCC-2020-2021-Web"><img align="left" alt="Web" src="https://github-readme-stats.vercel.app/api/pin/?username=eamorgado&repo=NUCC-2020-2021-Web" /></a>
   
   
   
