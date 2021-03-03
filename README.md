@@ -62,6 +62,7 @@
 <details>
   <summary>:mortar_board: Personal projects and documents</summary>
   <a href="https://github.com/eamorgado/FoodieShoot"><img align="left" alt="Foodishoot" src="https://github-readme-stats.vercel.app/api/pin/?username=eamorgado&repo=FoodieShoot" /></a>
+  <a href="https://github.com/eamorgado/Car-Self-driving-Simulator"><img align="left" alt="Car Self driving simulator" src="https://github-readme-stats.vercel.app/api/pin/?username=eamorgado&repo=Car-Self-driving-Simulator" /></a>
   <a href="https://github.com/eamorgado/Documents"><img align="left" alt="Documents" src="https://github-readme-stats.vercel.app/api/pin/?username=eamorgado&repo=Documents" /></a>
   <a href="https://github.com/thejoblessducks/A-Neural-Network-That-Could"><img align="left" alt="Documents" src="https://github-readme-stats.vercel.app/api/pin/?username=thejoblessducks&repo=A-Neural-Network-That-Could" /></a>
 </details>
