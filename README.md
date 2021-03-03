@@ -2,7 +2,7 @@
 
 ## I'm a Computer Science student and Software Developer
 
-- 🔭 I’m currently working as a Software Developer at [Hapibot Studio][website] working with backend and Machine Learning. I am also the current workshop coordinator at [NUCC][nucc]
+- 🔭 I’m currently in an internship as a Software Development Engineer at Amazon. I am also the current workshop coordinator at [NUCC][nucc]
 - 🌱 I’m currently studying towards a master’s degree and I'm learning Go, Flutter and React
 - ⚡ Fun fact: I am very interested in game development and have made a survival RPG using Unreal during my school years
 
