@@ -1,8 +1,6 @@
 ### Hi there, I'm Eduardo - aka eamorgado 👋
 
-## I'm a Computer Science student and Software Developer
-
-- 🔭 I’m currently working as a Software Development Engineer at Amazon. I am also the current workshop coordinator at [NUCC][nucc]
+- 🔭 I’m currently working as a Software Development Engineer at Amazon.
 - 🌱 I’m currently studying towards a master’s degree and I'm learning Go, Flutter and React
 - ⚡ Fun fact: I am very interested in game development and have made a survival RPG using Unreal during my school years
 
